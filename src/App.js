@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './backlogo2.png';
 import './App.css';
 
 function App() {
@@ -7,15 +7,15 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          당시:  <code>당신의 시간을 기록해드립니다.</code>
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
+          href="./main.js"
+          // target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Loading...
         </a>
       </header>
     </div>
